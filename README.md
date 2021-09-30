@@ -15,6 +15,12 @@
 3. C++
 4. python
 
+## 이미지 사용
+
+![python](/1..PNG)
+
+<img src=1..PNG width=100 height=100>
+
 ## 최근 관심 분야
 * 오픈소스
 * 딥러닝
