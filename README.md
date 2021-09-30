@@ -20,6 +20,9 @@
 * 딥러닝
 * 블록체인
 ----------
+### 오픈소스 커뮤니티 정리 파일
+[오픈소스 커뮤니티 파일](openSourseCommunity.md)
+----
 * jupyter notebook
 * tensorflow
 ----
@@ -27,6 +30,14 @@
 [네이버][naver]  
 [구글][google]  
 ------------
+
+### 마크언어 문법 강조 
+기본문구  
+*기본강조문구*  
+**강조 문구**
+~~강조문구~~
+
+
 www.google.com  
 [google](http://www.google.com)  
 
