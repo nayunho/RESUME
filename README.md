@@ -54,7 +54,7 @@
 
 www.google.com  
 [google](http://www.google.com)  
-
-[eclips]:http://www.eclips.org
-[google]:http://www.google.com  
-[naver]:http://www.naver.com
+---------
+[eclips]: http://www.eclips.org
+[google]: http://www.google.com  
+[naver]: http://www.naver.com
